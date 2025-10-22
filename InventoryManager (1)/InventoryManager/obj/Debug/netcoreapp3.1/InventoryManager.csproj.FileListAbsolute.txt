@@ -1,0 +1,26 @@
+N:\BTEC IT\Unit 4\Assignment 1\InventoryManager\InventoryManager\bin\Debug\netcoreapp3.1\InventoryManager.exe
+N:\BTEC IT\Unit 4\Assignment 1\InventoryManager\InventoryManager\bin\Debug\netcoreapp3.1\InventoryManager.deps.json
+N:\BTEC IT\Unit 4\Assignment 1\InventoryManager\InventoryManager\bin\Debug\netcoreapp3.1\InventoryManager.runtimeconfig.json
+N:\BTEC IT\Unit 4\Assignment 1\InventoryManager\InventoryManager\bin\Debug\netcoreapp3.1\InventoryManager.runtimeconfig.dev.json
+N:\BTEC IT\Unit 4\Assignment 1\InventoryManager\InventoryManager\bin\Debug\netcoreapp3.1\InventoryManager.dll
+N:\BTEC IT\Unit 4\Assignment 1\InventoryManager\InventoryManager\bin\Debug\netcoreapp3.1\InventoryManager.pdb
+N:\BTEC IT\Unit 4\Assignment 1\InventoryManager\InventoryManager\obj\Debug\netcoreapp3.1\InventoryManager.csprojAssemblyReference.cache
+N:\BTEC IT\Unit 4\Assignment 1\InventoryManager\InventoryManager\obj\Debug\netcoreapp3.1\InventoryManager.csproj.CoreCompileInputs.cache
+N:\BTEC IT\Unit 4\Assignment 1\InventoryManager\InventoryManager\obj\Debug\netcoreapp3.1\InventoryManager.AssemblyInfoInputs.cache
+N:\BTEC IT\Unit 4\Assignment 1\InventoryManager\InventoryManager\obj\Debug\netcoreapp3.1\InventoryManager.AssemblyInfo.cs
+N:\BTEC IT\Unit 4\Assignment 1\InventoryManager\InventoryManager\obj\Debug\netcoreapp3.1\InventoryManager.dll
+N:\BTEC IT\Unit 4\Assignment 1\InventoryManager\InventoryManager\obj\Debug\netcoreapp3.1\InventoryManager.pdb
+N:\BTEC IT\Unit 4\Assignment 1\InventoryManager\InventoryManager\obj\Debug\netcoreapp3.1\InventoryManager.genruntimeconfig.cache
+O:\#BTEC IT\Unit 4 M 90 Cwork\Learning Aim A\Assignment 1\InventoryManager\InventoryManager\bin\Debug\netcoreapp3.1\InventoryManager.exe
+O:\#BTEC IT\Unit 4 M 90 Cwork\Learning Aim A\Assignment 1\InventoryManager\InventoryManager\bin\Debug\netcoreapp3.1\InventoryManager.deps.json
+O:\#BTEC IT\Unit 4 M 90 Cwork\Learning Aim A\Assignment 1\InventoryManager\InventoryManager\bin\Debug\netcoreapp3.1\InventoryManager.runtimeconfig.json
+O:\#BTEC IT\Unit 4 M 90 Cwork\Learning Aim A\Assignment 1\InventoryManager\InventoryManager\bin\Debug\netcoreapp3.1\InventoryManager.runtimeconfig.dev.json
+O:\#BTEC IT\Unit 4 M 90 Cwork\Learning Aim A\Assignment 1\InventoryManager\InventoryManager\bin\Debug\netcoreapp3.1\InventoryManager.dll
+O:\#BTEC IT\Unit 4 M 90 Cwork\Learning Aim A\Assignment 1\InventoryManager\InventoryManager\bin\Debug\netcoreapp3.1\InventoryManager.pdb
+O:\#BTEC IT\Unit 4 M 90 Cwork\Learning Aim A\Assignment 1\InventoryManager\InventoryManager\obj\Debug\netcoreapp3.1\InventoryManager.csprojAssemblyReference.cache
+O:\#BTEC IT\Unit 4 M 90 Cwork\Learning Aim A\Assignment 1\InventoryManager\InventoryManager\obj\Debug\netcoreapp3.1\InventoryManager.csproj.CoreCompileInputs.cache
+O:\#BTEC IT\Unit 4 M 90 Cwork\Learning Aim A\Assignment 1\InventoryManager\InventoryManager\obj\Debug\netcoreapp3.1\InventoryManager.AssemblyInfoInputs.cache
+O:\#BTEC IT\Unit 4 M 90 Cwork\Learning Aim A\Assignment 1\InventoryManager\InventoryManager\obj\Debug\netcoreapp3.1\InventoryManager.AssemblyInfo.cs
+O:\#BTEC IT\Unit 4 M 90 Cwork\Learning Aim A\Assignment 1\InventoryManager\InventoryManager\obj\Debug\netcoreapp3.1\InventoryManager.dll
+O:\#BTEC IT\Unit 4 M 90 Cwork\Learning Aim A\Assignment 1\InventoryManager\InventoryManager\obj\Debug\netcoreapp3.1\InventoryManager.pdb
+O:\#BTEC IT\Unit 4 M 90 Cwork\Learning Aim A\Assignment 1\InventoryManager\InventoryManager\obj\Debug\netcoreapp3.1\InventoryManager.genruntimeconfig.cache

@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "yNddG4b6IuOnZ6ErivxfS75h0C89I1xbhtgMo7Vn2wVrB6Sf/CWaxOZVuq+Fre66H/4zwrUvOWFdHxtzxSJLkw==",
+  "success": false,
+  "projectFilePath": "\\\\wc-fs-02\\ComputerScience\\#BTEC IT\\Diploma\\Unit 4 M 90 Cwork\\Assignment 1\\InventoryManager\\InventoryManager\\InventoryManager.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.NETCore.App.Ref"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.WindowsDesktop.App.Ref"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.AspNetCore.App.Ref"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.NETCore.App.Host.win-x64"
+    }
+  ]
+}

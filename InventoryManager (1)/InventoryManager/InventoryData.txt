@@ -1,0 +1,9 @@
+ID,  NAME,  CATEGORY,  STOCK,  STATUS
+1 ,  Rice,  Grocery, 10, ALERT!
+2 ,  Onions,  Vegetables, 100,  MAX
+3 ,  Lemonade,  Drinks, 100,  MAX
+4 ,  Carrots,  Vegetables, 100,  MAX
+5 ,  Bread,  Grocery, 70, GOOD
+6 ,  Cola,  Drinks, 100,  MAX
+7 ,  Apples,  Fruit, 100,  MAX
+8 , Bread,  Grocery, 100, MAX
